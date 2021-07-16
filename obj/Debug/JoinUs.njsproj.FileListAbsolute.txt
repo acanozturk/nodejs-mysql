@@ -1,0 +1,3 @@
+C:\Users\Alican\source\repos\JoinUs\obj\Debug\JoinUs.njsproj.CoreCompileInputs.cache
+C:\Users\Alican\source\repos\JoinUs\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Alican\source\repos\JoinUs\obj\Debug\JoinUs.njsproj.AssemblyReference.cache
